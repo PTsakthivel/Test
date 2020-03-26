@@ -10,7 +10,7 @@ import java.io.InputStreamReader;
 
 // Type casting ==> Conversion of one data type of another
 // In Java, we have 8 primitive data types
-// byte, short, long, char, int, float, long, double and boolean
+// byte, short, long, char, int, float, long, double and booleannn
 // String is consider as a class in Java
 // Object is a super class of all the classes in Java
 
